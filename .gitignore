@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# React
+node_modules/
+dist/
+
+# Database backups
+*.sql
+
+# Logs
+*.log
